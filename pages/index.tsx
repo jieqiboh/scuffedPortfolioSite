@@ -31,7 +31,7 @@ const Home: NextPage = () => {
           </GridItem>
           <GridItem colStart={0} colSpan={2} bg="papayawhip">
             <Text fontWeight="bold" fontSize="4xl" padding="1">
-              I'm jieqi
+              I&apos;m jieqi
             </Text>
           </GridItem>
           <GridItem
